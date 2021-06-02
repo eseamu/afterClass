@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+}
+
+form{
+    border: #000 1px solid;
+    padding: 10px;
+    margin: 0 50px;
+    border-radius: 10px;
+    background-color: #B8B8B8;
+}
+input{
+    margin-top: 2px;
+}
+.button{
+
+    padding: 10px;
+    background-color: #3270FF;
+    text-decoration: none;
+    border-radius: 3px;
+    text-decoration: none;   
+    border: none; 
+    
+}
